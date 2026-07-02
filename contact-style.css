@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.contact-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh; /*ตึงกล่องข้อมูลให้อยู่ตรงกลางหน้าจอพอดี*/
+    background-color: #6bff97;
+}
+.contact-box{
+    width: 400px;
+    padding: 40px;
+    background-color: #cbf800;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.portfolio-pic{
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.info-details p{
+    font-size: 18px;
+    margin-bottom: 10px;
+}
