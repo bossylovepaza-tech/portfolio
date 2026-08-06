@@ -56,7 +56,11 @@ main div img {
 }
 footer{
         background-color: #856bb4;
-        color: rgb(206, 74, 74);
+        color: rgb(0, 0, 0);
         text-align: center;
         padding: 10px;
+}
+.logo img{
+        width: 100px;
+        height: auto;
 }
